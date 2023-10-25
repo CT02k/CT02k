@@ -5,8 +5,8 @@
 <p align="center">I am <strong>passionate to discover new stuffs</strong>. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ct02k&theme=transparent&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ct02k&show_icons=true&theme=transparent&layout=compact" />
+<img width=55% height=190 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ct02k&theme=transparent&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ct02k&theme=transparent&layout=compact" />
  </div>
  
  &nbsp;
